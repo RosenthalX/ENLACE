@@ -1,0 +1,2 @@
+# ENLACE
+Plataforma de inteligencia.
